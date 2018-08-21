@@ -1,0 +1,42 @@
+footer {
+    background-color: #000;
+}
+
+#footerlink ul {
+    list-style: none;
+}
+
+#footerlink ul a {
+    color: Orange;
+    margin-left: 56%;
+    text-decoration: underline;
+}
+
+#footerlink ul a:hover {
+    text-decoration: none;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 28px;
+    margin-left: 14%;
+}
+
+.sitemap {
+    color: #fff;
+    margin: 0 0 0 60%;
+}
+
+#privacycontent span {
+    color: #fff;
+}
+
+.ourprivacy {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.ourprivacy:hover {
+    color: Orange;
+    text-decoration: none;
+}
