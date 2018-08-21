@@ -1,0 +1,30 @@
+.garimage {
+    background: url(../../../assets/images/Body_Gradient.jpg);
+    width: 100%;
+}
+
+.well {
+    background-color: transparent;
+    border: 1px solid orange;
+    width: 65%;
+    margin: 5% 0 0 10%;
+}
+
+.garimage ul {
+    list-style: none;
+}
+
+.garimage ul li {
+    float: left;
+    padding: 1%;
+}
+
+.garimage ul li a {
+    color: maroon;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.garimage ul li a:hover {
+    text-decoration: none;
+}

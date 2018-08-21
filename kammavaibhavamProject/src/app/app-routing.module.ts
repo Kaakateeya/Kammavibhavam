@@ -5,6 +5,10 @@ const routes: Routes = [
   {
     path: 'commonfooter',
     loadChildren: './commonfooter/commonfooter.module#CommonfooterModule'
+  },
+  {
+    path: 'aboutus',
+    loadChildren: './aboutus/aboutus.module#AboutusModule'
   }
 ];
 
