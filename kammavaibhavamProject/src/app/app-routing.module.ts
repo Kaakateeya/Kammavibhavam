@@ -9,6 +9,10 @@ const routes: Routes = [
   {
     path: 'aboutus',
     loadChildren: './aboutus/aboutus.module#AboutusModule'
+  },
+  {
+    path: 'commonmenu',
+    loadChildren: './commonmenu/commonmenu.module#CommonmenuModule'
   }
 ];
 
